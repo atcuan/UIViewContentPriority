@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "UIViewContentPriority"
-  s.version      = "1.9.1"
+  s.version      = "0.1"
   s.summary      = "UIView contentHuggingPriority & contentCompressionResistancePriority wrapper"
-  s.homepage     = "https://github.com/showmecode/RefreshControl"
+  s.homepage     = "https://github.com/atcuan/UIViewContentPriority"
   s.license      = "MIT"
   s.author             = { "Moch" => "atcuan@gmail.com" }
   s.platform     = :ios, "7.0"
